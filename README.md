@@ -1,16 +1,17 @@
-### 🎨 AdvancedCanvas – React Drawing Application
+## 🎨 AdvancedCanvas – React Drawing Application
 
 A full-featured React-based drawing app that allows users to draw freehand, shapes, and text on a canvas. Includes undo, clear, text selection, and editing functionalities.
 
-### Technology Stack
+## Technology Stack
 
-- React.js – Frontend
-- Material-UI – Toolbar icons and buttons
-- React-Icons – Additional icons
-- HTML5 Canvas API – Drawing and rendering
-- CSS – Styling
+- **React.js** – Frontend
+- **Material-UI** – Toolbar icons and buttons
+- **React-Icons** – Additional icons
+- **HTML5 Canvas API** – Drawing and rendering
+- **CSS** – Styling
 
-### 📌 Features
+
+## 📌 Features
 ⭐ Frontend (React + Canvas)
 - Responsive and interactive canvas
 - Freehand drawing (Pencil)
@@ -21,11 +22,8 @@ A full-featured React-based drawing app that allows users to draw freehand, shap
 - Color picker and adjustable line width
 - Dynamic drawing preview while dragging
 
-### ⚙️ Installation & Setup
 
-Open your browser and go to http://localhost:3000
-
-### 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - Drag and resize shapes and text
 - Export canvas as PNG, JPEG or PDF
@@ -34,7 +32,22 @@ Open your browser and go to http://localhost:3000
 - Keyboard shortcuts for all tools
 - Dark Mode UI
 
-### 📬 Connect with Me
-💼 LinkedIn
-🌐 Portfolio
-✉️ Email Me
+
+## ⚙️ Installation & Setup
+
+1. Clone the Repository
+
+   ```bash
+   git clone https://github.com/Thamizhjaisankar-git/React-canvas-board.git
+   cd Canvas
+
+2. 🌐 Frontend Setup (React + Tailwind)
+   ```bash
+    npm install
+    npm run dev
+
+## 📬 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)  
+- 🌐 [Portfolio](https://thamizh-jl.vercel.app/)  
+- ✉️ [Email Me](mailto:thamizhjaisankar@gmail.com)
