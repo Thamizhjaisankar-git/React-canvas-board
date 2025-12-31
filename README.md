@@ -1,6 +1,6 @@
 ## 🎨 AdvancedCanvas – React Drawing Application
 
-A full-featured React-based drawing app that allows users to draw freehand, shapes, and text on a canvas. Includes undo, clear, text selection, and editing functionalities.
+A full-featured React-based drawing app that allows users to draw freehand, shapes, and text on a canvas. Includes undo, clear, text selection and editing functionalities.
 
 ## Technology Stack
 
